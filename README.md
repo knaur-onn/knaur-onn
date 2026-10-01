@@ -1,5 +1,5 @@
 # 💫 About Me:
-An independent front-end developer that is passionate in web development and strives to become a professional in the industry
+Hi! I'm Nur, a passionate independent developer that strives to become a professional in the industry and willing to learn new techs and innovations that would satisfy my curiosity.
 
 
 ## 🌐 Socials:
