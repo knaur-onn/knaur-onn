@@ -10,13 +10,15 @@ Hi! I'm Nur, a passionate independent developer that strives to become a profess
 # 📊 GitHub Stats:
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=knaur-onn&show_icons=true&include_all_commits=true&bg_color=191a23&title_color=70a5fd&text_color=38d6c4&icon_color=70a5fd&border_color=d9d9d9&border_radius=8&ring_color=70a5fd"
+    src="https://github-readme-stats.vercel.app/api?username=knaur-onn&show_icons=true&include_all_commits=true&bg_color=191a23&title_color=70a5fd&text_color=38d6c4&icon_color=70a5fd&border_color=d9d9d9&border_radius=8&v=20261004"
     alt="Nur's GitHub Stats"
   />
 </p>
+
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=knaur-onn&background=191a23&border=d9d9d9&stroke=d9d9d9&ring=70a5fd&fire=70a5fd&currStreakNum=bc8cff&sideNums=70a5fd&currStreakLabel=bc8cff&sideLabels=70a5fd&dates=38d6c4&border_radius=8"
+    src="https://streak-stats.demolab.com/?user=knaur-onn&timezone=Asia%2FManila&background=191a23&border=d9d9d9&stroke=d9d9d9&ring=70a5fd&fire=70a5fd&currStreakNum=bc8cff&sideNums=70a5fd&currStreakLabel=bc8cff&sideLabels=70a5fd&dates=38d6c4&border_radius=8&v=20261004"
     alt="GitHub Streak"
   />
 </p>
+
